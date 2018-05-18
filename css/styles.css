@@ -106,5 +106,16 @@ footer hr {
     padding: 0 20%;
 }
 
+footer p,
+footer a {
+    font-size: 18px;
+    text-align: center;
+    margin: 25px 0 0 0;
+}
+
+footer a {
+    font-weight: 900;
+}
+
 
 
